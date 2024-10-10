@@ -43,3 +43,4 @@ git push
 You can make changes to your scripts and reupload as many times as you like. Make sure you commit+push to do so.
 
 **Note:** Your lab is automatically submitted at the due date and time using the last published code. Any changes you publish after the due date won't be marked or seen by your professor.
+# Lab 3 Completed
